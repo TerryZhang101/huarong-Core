@@ -29,6 +29,7 @@ public class ServerApplication {
      * 添加fastjson支持
      * @return HttpMessageConverters
      */
+	
 	@Bean
 	public HttpMessageConverters fastJsonHttpMessageConverters() {
 		FastJsonHttpMessageConverter fastConverter = new FastJsonHttpMessageConverter();
