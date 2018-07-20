@@ -7,8 +7,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  	<name>huarong-core</name>
-	<description>huarong-core</description>
+  <name>huarong-core</name>
+  <description>huarong-core</description>
 
  <parent>
 		<groupId>org.springframework.boot</groupId>
